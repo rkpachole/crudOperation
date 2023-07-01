@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "name": "rakshahbbbbbbbb",
+      "email": "pa@mailinator.com",
+      "selectedValue": "gggg",
+      "id": 3
+    },
+    {
+      "name": "raksha",
+      "email": "rk@mailinator.com",
+      "selectedValue": "name",
+      "id": 4
+    },
+    {
+      "name": "tanvi",
+      "email": "gpo@mailinator.com",
+      "selectedValue": "mahesh",
+      "id": 5
+    },
+    {
+      "name": "DEEKSHA PACHOLE",
+      "email": "rkpachole9898@gmail.com",
+      "selectedValue": "name",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "some"
+    },
+    {
+      "name": "mahesh",
+      "id": 2
+    },
+    {
+      "name": "gggg",
+      "id": 3
+    },
+    {
+      "name": "name",
+      "id": 4
+    },
+    {
+      "name": "nbbbbbbbbbbbb",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
